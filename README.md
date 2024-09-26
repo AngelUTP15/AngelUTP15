@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there 👋 Angel here!!!
+How's going life? I'm from Colombia. Recently, I'm learning English so, sorry for my bad grammar.
 
+* 📒 Study Ing. of Systems (Firts year)
+* 💻 Code's Lenguage: Racket|Python (more soon)
+* ⛏️ Working in own Proyects (0)
+* 🆓 Loking for any proyect or work
 <!--
 **AngelUTP15/AngelUTP15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
